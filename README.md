@@ -1,7 +1,7 @@
 # hello-world
 
-Learning about coding for a possible job.
+ Learning about coding for a possible job.
 
-Is this editing the master?
+ Is this editing the master?
 
-Try again?
+ Try again?
